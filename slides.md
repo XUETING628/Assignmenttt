@@ -89,3 +89,48 @@ The work done $W$ is positive when the system expands against an external pressu
 </iframe>
 :::
 ::::
+
+---
+### Control Chart for Machine 1 (338K, 200kPa)
+
+<iframe data-src='media/plots/control_chart_machine_1.html' width='100%' height='500px' style='border:none;'></iframe>
+
+---
+### Process Capability Chart for Machine 1 (338K, 200kPa)
+
+<iframe data-src='media/plots/capability_chart_machine_1.html' width='100%' height='500px' style='border:none;'></iframe>
+
+- **LSL**: 45
+- **Target**: 50
+- **USL**: 55
+- **Cpk**: 2.264
+
+---
+### Control Chart for Machine 2 (338K, 200kPa)
+
+<iframe data-src='media/plots/control_chart_machine_2.html' width='100%' height='500px' style='border:none;'></iframe>
+
+---
+### Process Capability Chart for Machine 2 (338K, 200kPa)
+
+<iframe data-src='media/plots/capability_chart_machine_2.html' width='100%' height='500px' style='border:none;'></iframe>
+
+- **LSL**: 45
+- **Target**: 50
+- **USL**: 55
+- **Cpk**: 1.242
+
+---
+### Control Chart for Machine 3 (338K, 200kPa)
+
+<iframe data-src='media/plots/control_chart_machine_3.html' width='100%' height='500px' style='border:none;'></iframe>
+
+---
+### Process Capability Chart for Machine 3 (338K, 200kPa)
+
+<iframe data-src='media/plots/capability_chart_machine_3.html' width='100%' height='500px' style='border:none;'></iframe>
+
+- **LSL**: 45
+- **Target**: 50
+- **USL**: 55
+- **Cpk**: 2.195
